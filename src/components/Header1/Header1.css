@@ -1,0 +1,24 @@
+
+.navbar1{
+    background-color: rgb(93, 215, 117);
+    
+}
+.notification{
+    background-color: rgb(197, 197, 63);
+}
+
+@media (max-width: 991px) {
+    .navbar-toggler {
+      order: -1; /* This property changes the order of the element */
+      float: left; /* Aligns the toggler to the left */
+      margin-left: 15px; /* Add some left margin for spacing */
+    }
+  
+    .navbar-collapse {
+      clear: both; /* Clear the float to prevent layout issues */
+    }
+  
+    .navbar-nav {
+      margin-top: 10px; /* Add some top margin for spacing */
+    }
+  }

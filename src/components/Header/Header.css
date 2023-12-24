@@ -1,0 +1,10 @@
+.letsshow{
+    display: flex;
+
+}
+.navbar{
+    background-color: red;
+}
+.notification{
+    background-color: yellow;
+}
